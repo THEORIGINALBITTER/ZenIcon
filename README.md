@@ -4,7 +4,7 @@ MAC OS APP
 
 by Denis Bitter ZenDev 2025
 
-
+---
 
 Mach dir Dein ICON für APPS selber inkl. ICON Composer
 
@@ -13,6 +13,8 @@ Mach dir Dein ICON für APPS selber inkl. ICON Composer
 - PNG DAtei to ICSN SET Datei  [ aller Größen ]
 - Icon Composer gestaltet dein ICON selbst
 
-
+---
 
 <img width="949" height="1034" alt="Bildschirmfoto 2025-07-13 um 21 06 32" src="https://github.com/user-attachments/assets/b6c080c4-2419-43e7-8d2a-5b206369ce89" />
+
+---
