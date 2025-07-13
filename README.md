@@ -41,6 +41,9 @@ Export
 ---
 
 
+Icon Composer 
+
+<img width="949" height="1034" alt="Bildschirmfoto 2025-07-13 um 21 22 30" src="https://github.com/user-attachments/assets/5b521499-581c-458a-8426-864184a54aa8" />
 
 
 
