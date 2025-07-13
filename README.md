@@ -27,5 +27,22 @@ Drop Down
 
 ---
 
+Preview ALL Icon Set 
+
+<img width="949" height="1034" alt="Bildschirmfoto 2025-07-13 um 21 14 39" src="https://github.com/user-attachments/assets/0ce225b9-81d0-4cb8-b4d9-9c7cf69c8052" />
+
+---
+
+Export 
+
+<img width="949" height="1034" alt="Bildschirmfoto 2025-07-13 um 21 16 10" src="https://github.com/user-attachments/assets/1ca9f86e-7e89-49fd-83b3-3ef4bd0fb72e" />
+
+
+---
+
+
+
+
+
 
 
