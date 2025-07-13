@@ -2,7 +2,7 @@
 ZenIcon - SET MAKER ICON 
 MAC OS APP
 
-by Denis Bitter ZenDev 2025
+© 2025 Denis Bitter – ZenDev
 
 ---
 
@@ -12,6 +12,20 @@ Mach dir Dein ICON für APPS selber inkl. ICON Composer
 - ICSN Datei to PNG Set [ aller Größen ] inkl. JSON Datei
 - PNG DAtei to ICSN SET Datei  [ aller Größen ]
 - Icon Composer gestaltet dein ICON selbst
+
+---
+## Danksagung
+
+Danke an alle Tester:innen, Helfer:innen und die Open-Source-Community –
+besonders für Inspiration und Tools rund um Swift, macOS und Icon-Design.
+
+**Spezieller Dank an:**
+- [Swift](https://swift.org/)
+- [SF Symbols](https://developer.apple.com/sf-symbols/)
+- [GitHub](https://github.com/)
+- und die Community.
+
+– Denis Bitter, ZenDev
 
 ---
 
