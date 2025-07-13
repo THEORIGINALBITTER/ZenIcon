@@ -25,7 +25,7 @@ besonders für Inspiration und Tools rund um Swift, macOS und Icon-Design.
 - [GitHub](https://github.com/)
 - und die Community.
 
-– Denis Bitter, ZenDev
+Denis Bitter, ZenDev
 
 ---
 
