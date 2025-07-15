@@ -55,7 +55,7 @@ Export
 ---
 
 
-Icon Composer 
+Icon Composer - BETA STATUS nicht alle Funktionen funktioneren perfekt - Er ist zum testen gedacht 
 
 
 <img width="912" height="933" alt="iconmaker" src="https://github.com/user-attachments/assets/50c36fd6-7f07-4839-92f0-1b9ac5514cb2" />
