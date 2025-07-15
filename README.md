@@ -10,7 +10,7 @@ Mach dir Dein ICON für APPS selber inkl. ICON Composer
 
 - Einzel PNG to PNG Set [ aller Größen ] inkl. JSON Datei
 - ICSN Datei to PNG Set [ aller Größen ] inkl. JSON Datei
-- PNG DAtei to ICSN SET Datei  [ aller Größen ]
+- PNG Datei to ICSN SET Datei  [ aller Größen ]
 - Icon Composer gestaltet dein ICON selbst
 
 ---
@@ -55,7 +55,7 @@ Export
 ---
 
 
-Icon Composer - BETA STATUS nicht alle Funktionen funktioneren perfekt - Er ist zum testen gedacht 
+Icon Composer - **** BETA STATUS ***** A ****** nicht alle Funktionen funktioneren perfekt - er ist zum testen gedacht 
 
 
 <img width="912" height="933" alt="iconmaker" src="https://github.com/user-attachments/assets/50c36fd6-7f07-4839-92f0-1b9ac5514cb2" />
