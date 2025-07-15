@@ -57,7 +57,15 @@ Export
 
 Icon Composer 
 
-<img width="949" height="1034" alt="Bildschirmfoto 2025-07-13 um 21 22 30" src="https://github.com/user-attachments/assets/5b521499-581c-458a-8426-864184a54aa8" />
+
+<img width="912" height="933" alt="iconmaker" src="https://github.com/user-attachments/assets/50c36fd6-7f07-4839-92f0-1b9ac5514cb2" />
+
+---
+
+Ausgabe des Set inkl. Json 
+
+<img width="684" height="462" alt="zeniconordner" src="https://github.com/user-attachments/assets/a48b3be8-f019-4533-bf83-ec2270261c4c" />
+
 
 
 
